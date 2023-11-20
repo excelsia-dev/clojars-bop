@@ -1,0 +1,1 @@
+My Clojars Permission File
